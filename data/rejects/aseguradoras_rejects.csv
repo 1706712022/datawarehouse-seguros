@@ -1,0 +1,3 @@
+id_tipo_seguro,tipo,categoria,riesgo_base,motivo_rechazo
+9,Accidentes,,5.68,datos_maestros_incompletos
+12,Agrícola,,,datos_maestros_incompletos

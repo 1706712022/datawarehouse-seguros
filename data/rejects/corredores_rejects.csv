@@ -1,0 +1,5 @@
+id_corredor,nombre,zona,nivel,anios_experiencia,motivo_rechazo
+11,José Morales Flores,,JUNIOR,,nombre_o_experiencia_invalida
+15,Fernanda Cruz Reyes,Centro,MID,,nombre_o_experiencia_invalida
+61,Carlos Torres Mendoza,Centro,JUNIOR,,nombre_o_experiencia_invalida
+77,Valeria Vásquez Mendoza,Centro,JUNIOR,,nombre_o_experiencia_invalida
